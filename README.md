@@ -1,5 +1,9 @@
 # Protobuf Decoder
 
+> [!IMPORTANT]  
+> This is a fork I worked on, but I am in the process of merging several other raw-protobuf tools I made, and will create my own that incorporates those ideas. See [rawproto](https://github.com/konsumer/rawproto)
+
+
 [![CircleCI](https://circleci.com/gh/pawitp/protobuf-decoder.svg?style=svg)](https://circleci.com/gh/pawitp/protobuf-decoder)
 [![codecov](https://codecov.io/gh/pawitp/protobuf-decoder/branch/master/graph/badge.svg)](https://codecov.io/gh/pawitp/protobuf-decoder)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
